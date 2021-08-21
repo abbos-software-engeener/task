@@ -1,0 +1,6 @@
+pip~=21.2.4
+setuptools~=57.0.0
+Django~=3.2.6
+requests~=2.26.0
+pytube~=11.0.0
+djangorestframework~=3.12.4
